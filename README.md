@@ -1,7 +1,6 @@
-# My-Data-Analysis-Portfolio
-A collection of my data analysis projects showcasing my skills in Python, machine learning, and data visualization.
-
 # My Data Science Portfolio
+
+A collection of my data analysis projects showcasing my skills in Python, machine learning, and data visualization.
 
 Welcome to my portfolio! Below you'll find links to some of the projects I've worked on:
 
