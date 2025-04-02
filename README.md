@@ -17,5 +17,9 @@ Welcome to my portfolio! Below you'll find links to some of the projects I've wo
    
    Description: This project builds a machine learning model to predict hospital readmissions, aiming to improve patient care, reduce healthcare costs, and optimize hospital resource allocation through data-driven insights.
 
+5. [https://github.com/ankheat/Hospital-readmission-EDA](https://github.com/ankheat/Hospital-readmission-EDA)
+
+    Description: Exploratory Data Analysis (EDA) of patient admissions and treatment outcomes to uncover trends in diagnoses, stay duration, and recovery rates. This project provides insights into hospital resource planning and treatment effectiveness through visualizations and statistical analysis.
+
    ## Contact Me:
 Feel free to reach out via ank30.sharma@gmail.com or on +91-8956006568.
