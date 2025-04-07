@@ -15,6 +15,7 @@ Welcome to my portfolio! Below you'll find links to some of the projects I've wo
     Description: Exploratory Data Analysis (EDA) of patient admissions and treatment outcomes to uncover trends in diagnoses, stay duration, and recovery rates. This project provides insights into hospital resource planning and treatment effectiveness through visualizations and statistical analysis.
 
 3. [Hospital Management System](https://github.com/ankheat/Hospital-management-system)
+
    Description: A MySQL project that simulates a hospital management system with tables for patients, doctors, appointments, and billing. Includes real-world queries for scheduling, reporting, and data analysis.
    
    ## Contact Me:
